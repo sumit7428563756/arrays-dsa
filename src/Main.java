@@ -18,6 +18,5 @@ public class Main {
         for (int i = 4; i>=0 ; i--){
             System.out.print(arr[i] + "  ");
         }
-
     }
 }
